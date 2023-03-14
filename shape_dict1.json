@@ -1,0 +1,19 @@
+
+
+
+{
+
+  "shape_dict": {
+    "circles": ["r-1:4","r-1:5","r-1:6","r-1:7","r-1:8"],
+    "squares": ["r-1:2","r-1:3"]
+  },
+  "text_dict": {
+    "r-1:2": ["click_squares","click_edges"],
+    "r-1:3": ["click_squares","click_edges"],
+    "r-1:4": ["click_circles","click_round"],
+    "r-1:5": ["click_circles","click_round"],
+    "r-1:6": ["click_circles","click_round"],
+    "r-1:7": ["click_circles","click_round"],
+    "r-1:8": ["click_circles","click_round"]
+  }
+}
